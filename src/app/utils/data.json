@@ -1,0 +1,32 @@
+{
+  "94103": {
+    "timezone": "America/Los_Angeles",
+    "icon": "PartlyCloudyDay",
+    "temperature": 18.5
+  },
+  "28001": {
+    "timezone": "Europe/Madrid",
+    "icon": "Fog",
+    "temperature": 11
+  },
+  "10001": {
+    "timezone": "America/New_York",
+    "icon": "Sleet",
+    "temperature": 0
+  },
+  "99801": {
+    "timezone": "America/Juneau",
+    "icon": "Snow",
+    "temperature": -4.74
+  },
+  "06010": {
+    "timezone": "Europe/Brussels",
+    "icon": "Rain",
+    "temperature": 5
+  },
+  "85001": {
+    "timezone": "America/Phoenix",
+    "icon": "ClearDay",
+    "temperature": 36
+  }
+}

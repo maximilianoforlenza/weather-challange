@@ -1,0 +1,6 @@
+import { getRandomZipcode } from "@/app/api/api";
+
+export default async function Weather() {
+  const zipCode = getRandomZipcode();
+  return <p>Weather</p>;
+}
